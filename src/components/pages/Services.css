@@ -1,0 +1,43 @@
+.services {
+    margin: 80px auto;
+    width: 90%;
+    text-align: center;
+  }
+  
+  .service-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+  
+  .service-card {
+    width: 30%;
+    background: #f8f8f8;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .service-card img {
+    width: 80%;
+    border-radius: 10px;
+  }
+  
+  .service-card h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .service-card p {
+    font-style: italic;
+    color: #666;
+  }
+  
+  footer {
+    margin-top: 40px;
+    font-style: italic;
+    color: #666;
+  }
